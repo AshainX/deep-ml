@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-09-15T15:43:25.294Z",
+  "items": {
+    "math:154": {
+      "kind": "math",
+      "id": "154",
+      "title": "LoRA Parameter and Compute Arithmetic",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/154",
+      "path": "math/0154-lora-parameter-and-compute-arithmetic",
+      "first_solved_at": "2026-09-15T15:34:24.592Z",
+      "last_pushed_at": "2026-09-15T15:34:24.592Z"
+    },
+    "problem:887": {
+      "kind": "problem",
+      "id": "887",
+      "title": "Build an MLP with nn.Sequential",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/887",
+      "path": "problems/0887-build-an-mlp-with-nn-sequential",
+      "first_solved_at": "2026-09-15T15:42:32.021Z",
+      "last_pushed_at": "2026-09-15T15:42:32.021Z",
+      "language": "python",
+      "lines": 11
+    }
+  }
+}
